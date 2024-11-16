@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 <br/>
 
-  <img align='right' src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" width="500">
+  <img align='right' src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" width="400">
 
 <br/>
 <br/>
