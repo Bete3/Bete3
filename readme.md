@@ -1,5 +1,8 @@
-# 🌟 Welcome to My GitHub Profile! 🌟
-
+<br/>
+<div align="center">
+  <img width="400" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+</div>
+<br/>
 <h1 align="center">Hi 👋, I'm Betelhem Yehuala</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 <br/>
@@ -16,11 +19,6 @@
 
 - 📫 **Reach Me**: [betelyehuala@gmail.com](mailto:betelyehuala@gmail.com)
 
-<br/>
-<div align="center">
-  <img width="400" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-</div>
-<br/>
 ### 🛠️ Skills & Tools
 
 <div align="center">
